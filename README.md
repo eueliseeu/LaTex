@@ -1,6 +1,6 @@
 # Guia Profissional de LaTeX
 
-Este documento apresenta uma visão geral dos principais comandos e estruturas utilizados em documentos LaTeX, com foco em boas práticas e referências úteis para aprofundamento. As seções a seguir abordam desde a configuração inicial até aspectos avançados, como fórmulas matemáticas e gerenciamento de páginas.
+Este documento apresenta uma visão geral dos principais comandos e estruturas utilizados em documentos LaTeX, com foco em boas práticas e referências úteis para aprofundamento.
 
 ---
 
